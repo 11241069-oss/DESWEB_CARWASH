@@ -1,7 +1,7 @@
 
 # 🚗 Website Informasi dan Reservasi Layanan Car Wash
 
-Repositori ini dibuat untuk memenuhi **Tugas Akhir Mata Kuliah Desain Web (Desweb)** sekaligus sebagai **Portofolio Magang**.
+Repositori ini dibuat untuk memenuhi **Tugas Akhir Mata Kuliah Desain Web (Desweb)**.
 
 Proyek ini merupakan sebuah *Website Informasi dan Reservasi Layanan Car Wash* berbasis web. Website ini dirancang untuk memudahkan pelanggan dalam mencari informasi layanan cuci mobil dan melakukan reservasi secara online, serta dilengkapi dengan *Dashboard* Admin untuk mengelola data pesanan.
 
